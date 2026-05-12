@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with custom Alfred for macOS App | disk-analysis + OCR-support, the #1 app. Includes disk-analysis and OCR-support for a smoother macOS experience.
 
 
 
